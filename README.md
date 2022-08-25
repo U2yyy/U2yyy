@@ -32,7 +32,7 @@
 <table>
 <tbody>
    <tr>
-       <td  valign="top" width="50%">
+       <td  valign="top" width="100%">
 
 
 ### 📝<a href="https://u2yyy.github.io/" target="_blank">Recent Blog</a>
