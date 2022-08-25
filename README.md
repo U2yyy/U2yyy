@@ -27,20 +27,3 @@
 </div>
 
 
-## 📺Social
-
-<table>
-<tbody>
-   <tr>
-       <td  valign="top" width="100%">
-
-
-### 📝<a href="https://u2yyy.github.io/" target="_blank">Recent Blog</a>
-
-<!-- START_SECTION:blog -->
-
-<!-- END_SECTION:blog -->
-</td>
-        </tr>
-</tbody>
-</table>
