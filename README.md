@@ -26,4 +26,4 @@
     <img src="https://activity-graph.herokuapp.com/graph?username=Achuan-2&theme=minimal" />
 </div>
 
-
+## 📝<a href="https://u2yyy.github.io/" target="_blank">Recent Blog</a>
