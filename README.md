@@ -21,3 +21,26 @@
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=U2yyy" />
 </div>
 
+
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=Achuan-2&theme=minimal" />
+</div>
+
+
+## 📺Social
+
+<table>
+<tbody>
+   <tr>
+       <td  valign="top" width="50%">
+
+
+### 📝<a href="https://u2yyy.github.io/" target="_blank">Recent Blog</a>
+
+<!-- START_SECTION:blog -->
+
+<!-- END_SECTION:blog -->
+</td>
+        </tr>
+</tbody>
+</table>
