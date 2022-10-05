@@ -7,6 +7,7 @@
 - Undergraduate(2020.9-2024.6): civil engineering, Huazhong University of Science and Technology
 - Project
   - [U2y-To-DoList](https://github.com/U2yyy/To-DoList)
+  - [U2y-go-go](https://github.com/U2yyy/go_go)
 
 ## 📈Statistics
 
