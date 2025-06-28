@@ -23,8 +23,4 @@
 </div>
 
 
-<div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=U2yyy&theme=minimal" />
-</div>
-
 ## 📝<a href="https://u2yyy.github.io/" target="_blank">Recent Blog</a>
